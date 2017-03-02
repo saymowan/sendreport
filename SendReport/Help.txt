@@ -1,0 +1,10 @@
+﻿**************************************************************
+Autor: Saymon Cristian Alves Oliveira
+Data: 14/06/2016
+**************************************************************
+
+Aplicação para integração TeamCity com NUnit
+
+Solução: disparar e-mail com anexo pós build + testes 
+
+Execução: a definir
